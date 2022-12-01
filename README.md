@@ -123,13 +123,11 @@ Then,
 run npm install
 
 
-### Usage
+### Link to React App
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Link] - https://github.com/Therealadetunji/Hello_world_react
 
 <!-- AUTHORS -->
-
-
 
 > Mention all of the collaborators of this project.
 ## 👥 Authors <a name="authors"></a>
